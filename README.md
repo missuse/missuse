@@ -2,7 +2,7 @@
 
 [![missuse's GitHub stats](https://github-readme-stats.vercel.app/api?username=missuse&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on plant HRGP, bacterial genomics, and I am experimenting a bit with AlphaFold.
+- 🔭 I’m currently (for a while now) looking at biological sequences in various ways.
 - 🌱 I’m currently learning python and I am getting into molecular dynamics (gromacs).
 
 <!--
