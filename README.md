@@ -3,7 +3,7 @@
 [![missuse's GitHub stats](https://github-readme-stats.vercel.app/api?username=missuse&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently (for a while now) looking at biological sequences in various ways.
-- 🌱 I’m currently learning python and I am getting into molecular dynamics (gromacs).
+- 🌱 I’m currently learning python and I am getting into molecular dynamics.
 
 <!--
 **missuse/missuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
