@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![missuse's GitHub stats](https://github-readme-stats.vercel.app/api?username=missuse&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![missuse's GitHub stats]([https://github-readme-stats-git-masterrstaa-rickstaa/).vercel.app/api?username=missuse&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently (for a while now) looking at biological sequences in various ways.
 - 🌱 I’m currently learning SAS.
